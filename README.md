@@ -27,7 +27,7 @@ This application does not have a license.
 
 ## Link to the app
 
-<a href="https://chloeblackwell.github.io/Work-day-Scheduler/">Link to the app></a>
+<a href="https://chloeblackwell.github.io/Work-day-Scheduler/">Link to the app</a>
 
 ##Author 
 
