@@ -19,7 +19,7 @@ SO THAT I can manage my time effectively
 
 ## Screenshots 
 
-<img src="assets/images/Screenshot.png>
+<img src="assets/images/Screenshot.png">
 
 ## License 
 
@@ -29,7 +29,7 @@ This application does not have a license.
 
 <a href="https://chloeblackwell.github.io/Work-day-Scheduler/">Link to the app</a>
 
-##Author 
+## Author 
 
 Chloe Blackwell<br>
 Email: chloeblackwell2@hotmail.com

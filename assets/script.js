@@ -15,16 +15,15 @@ $(document).ready(function () {
 
     function addColour() {
         
-        var currentHour = moment().format('LT');
-
+        var currentHour = moment().format('hA');
+        
         // Loops over the time blocks 
         $(".time-block").each(function () {
             var hourlyBlock = $(".hour").text();
-
-            
+ 
             if (hourlyBlock < currentHour) {
                 $(this).addClass("past");
-            }
+            } 
             else if (hourlyBlock === currentHour) {
                 $(this).removeClass("past");
                 $(this).addClass("present");
@@ -34,8 +33,8 @@ $(document).ready(function () {
                 $(this).removeClass("present");
                 $(this).addClass("future");
             }
-        });
-    }
+       });
+    };
 
     addColour();
 
